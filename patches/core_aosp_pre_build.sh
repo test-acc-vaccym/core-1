@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-aosp_pre_build() {
+core_aosp_pre_build() {
   log_header "${FUNCNAME[0]}"
 
   patch_updater
