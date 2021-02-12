@@ -12,7 +12,4 @@ endif
 PRODUCT_PACKAGES += \
     Updater \
     TrichromeChrome \
-    TrichromeWebView \
-    Seedvault \
-    F-Droid \
-    F-DroidPrivilegedExtension
+    TrichromeWebView
